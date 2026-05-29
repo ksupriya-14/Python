@@ -1,3 +1,0 @@
-age = 5
-name = "Supriya Don"
-print(age,name)
